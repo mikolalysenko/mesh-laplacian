@@ -15,7 +15,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": ["mesh", "laplacian", "differential", "discrete", "geometry", "cell", "simplicial", "complex", "surface", "smoothing", "calculus"],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikolalysenko/mesh-laplacian.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mikolalysenko/mesh-laplacian/issues"
+  },
+  "homepage": "https://github.com/mikolalysenko/mesh-laplacian#readme"
 }
