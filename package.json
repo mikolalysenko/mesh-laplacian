@@ -1,0 +1,21 @@
+{
+  "name": "mesh-laplacian",
+  "version": "1.0.0",
+  "description": "Computes the Laplacian of a mesh.",
+  "main": "laplacian.js",
+  "dependencies": {
+    "typedarray-pool": "^1.1.0"
+  },
+  "devDependencies": {
+    "bunny": "^1.0.1",
+    "mesh-viewer": "^1.0.0",
+    "angle-normals": "^1.0.0",
+    "csr-matrix": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

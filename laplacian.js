@@ -103,5 +103,8 @@ function meshLaplacian(cells, positions) {
     entries.push([i, i, -weights[i]])
   }
 
+  pool.free(areas)
+  pool.free(weights)
+
   return entries
 }
